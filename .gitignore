@@ -1,0 +1,11 @@
+data/
+*.swn
+*.swm
+*.swo
+*.swl
+*.swp
+.ipynb_checkpoints/
+.hypothesis/
+.mypy_cache/
+supervisord.log
+supervisord.pid

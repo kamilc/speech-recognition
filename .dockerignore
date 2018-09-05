@@ -1,0 +1,13 @@
+data/
+checkpoints/
+stats/
+old-stats/
+old_checkpoints/
+speech-v1/
+models/
+training.log
+kaggle.log
+kaggle.results.hkl
+embeddings.kaggle.v1.hkl
+data_with_lengths.csv
+.hypothesis
